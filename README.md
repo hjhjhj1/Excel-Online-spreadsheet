@@ -3,11 +3,7 @@
 
 技术
 React 18 + TypeScript
-粘贴事件监听 clipboardData.getData('text/html') 解析 <table>
-表格编辑用 contenteditable 单元格
-状态管理 useReducer
 样式 Tailwind CSS
-
 功能
 双击单元格可编辑，Enter 保存，Esc 取消
 支持插入 / 删除行、列
